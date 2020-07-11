@@ -1,0 +1,35 @@
+footer {
+  margin: 0px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  justify-content: center;
+}
+
+#find {
+  margin: 0;
+  background: radial-gradient(
+    circle,
+    rgba(55, 0, 102, 1) 16%,
+    rgba(103, 5, 103, 1) 61%,
+    rgba(0, 26, 47, 1) 100%
+  );
+  font-size: 50px;
+}
+
+.flex_footer {
+  width: 100%;
+  background-color: #181a2e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image_footer {
+  margin: 1%;
+}
+
+p {
+  padding: 20px 0 20px 0;
+  margin: 0;
+}
